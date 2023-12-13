@@ -18,7 +18,7 @@ Anyone can create their own quest and play it with hQuestMaster!
 
 Here is some early documentation on how a quest should be written with the QuestDown language:
 
-https://drive.google.com/file/d/1YHDOySQ7yBK05qfehFUE98At6M6vqq3b/view
+https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDowd_EN.md
 
 
 For any question, problem, or suggestion, you can reach me with the Feedback button of the right site of site, or with this Google from:
