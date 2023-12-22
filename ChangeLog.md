@@ -1,4 +1,10 @@
-<h2>Changelog v0.180</h2>01/12/2023<br>
+<h2>Changelog v0.190</h2>22/12/2023<br>
+<ul class="news">
+    <li>[FEATURE] Added icons for Heroes: Bard, Druid, Knight, Rogue, Warlock.</li>
+    <li>[FEATURE] Added Support for Ability cards of the new Heroes (Bard, Druid, Knight, Rogue, Warlock), that require
+        Zargon's automations!
+    </li>
+</ul><br>01/12/2023<br>
 <ul class="news">
     <li>[FEATURE] Lots of improvements on ON_SERACH_* Events, and other events.</li>
     <li>[FEATURE] Support for multiple events for single Mark.</li>
@@ -92,4 +98,4 @@
 </ul><br>10/07/2023<br>
 <ul class="news">
     <li>[FEATURE] Now from Settings you can choose your preferred style (EU, USA, HQ21) for Tiles and Monsters</li>
-</ul>
+</ul><br>
