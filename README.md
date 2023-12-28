@@ -24,4 +24,6 @@ https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDowd_EN.md
 For any question, problem, or suggestion, you can reach me with the Feedback button of the right site of site, or with this Google from:
 https://docs.google.com/forms/d/1KzcPoeBs0RWi4bOEoBGXn4XXCfmsr1tztEV8FwwbRZY
 
+Or you can find me on Facebook (https://www.facebook.com/hQuestMaster), or Reddit (https://www.reddit.com/r/hQuestMaster/)
+
 
