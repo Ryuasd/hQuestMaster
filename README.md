@@ -5,6 +5,9 @@ Link: https://www.hquestmaster.com
 
 Being a Web App, theorically can run on any modern browser (Desktop, Tablet or Mobile) but later i will also release an ad-hoc App for Android and iOS.
 
+At this time, only the base Game System is officially supported.
+I'm working on implementing all the tiles & rules of all official expansions, and also for homebrew tiles!
+
 <br/>
 
 ## Backstory
@@ -15,6 +18,9 @@ To begin with i needed a tool to create the quests, i started working with Heros
 Wrtiting with this syntax is possible the create automations for any Mark sign put in the map (like Arrow, Letters o Numbers); From defining a starting point, to events to be played when entering a room or on the death of a monster!
 This system was a big improvment the one that i previosly used (additional xml definitions), because is more flexible ad adaptable for homebrew maps!
 So i went for a full support of maps created with hQuestBuilder, and doing this, for now, the support of maps made HeroScribe (.xml) is broken (maps are loaded, but there is no support for automations at the moment), i will work on it later.
+
+A little clarification, what i wanted to create was not a "videogame", so many things are left to the users. For example, BP of each heroes need to be tracked on your character sheet, or the fact that are present only the spells that need an interction with Zargon.
+Everything that not strictly require a Zargon player is implemented, you allways be required to have a phisical copy of HeroQuest! 
 
 <br/>
 
