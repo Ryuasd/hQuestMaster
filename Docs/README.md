@@ -1,7 +1,7 @@
 # Docs
 
-QuestDown is a language designed to write interactive events within maps generated with the hQuestBuilder software. 
-This language is used to specify Events and Actions that occur during the game, executed with hQuestMaster. 
+QuestDown is a language designed to write interactive events within maps generated with the [hQuestBuilder](https://www.hquestbuilder.com) software. 
+This language is used to specify Events and Actions that occur during the game, executed with [hQuestMaster](https://www.hquestmaster.com). 
 
 The following is a complete guide on how to write a Quest using QuestDown:
 
