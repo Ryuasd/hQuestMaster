@@ -29,9 +29,9 @@ Anyone can create their own quest and play it with hQuestMaster!
 
 Here is some early documentation on how a quest should be written with the QuestDown language:
 
-[QuestDown - Documentation (EN)](https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDown%20-%20Documentation%20-%20v1.0.EN.pdf)
+[QuestDown - Documentation (EN)](https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDown%20-%20Documentation%20-%20v1.1.EN.pdf)
 
-[QuestDown - Documentazione (IT)](https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDown%20-%20Documentazione%20-%20%20v1.0.IT.pdf)
+[QuestDown - Documentazione (IT)](https://github.com/Ryuasd/hQuestMaster/blob/main/Docs/QuestDown%20-%20Documentazione%20-%20%20v1.1.IT.pdf)
 
 
 And in the [Quests folder](https://github.com/Ryuasd/hQuestMaster/tree/main/Quests) you can find the files .hqb of the quests actually included in hQuestMaster.
