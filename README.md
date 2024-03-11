@@ -54,7 +54,10 @@ Thank you Milton Bradley, Games Workshop and Hasbro to have given us this great 
 And a big thank you to all the community of HeroQuest, that makes this game always aswesome with their love and inspiration!
 
 Special thanks goes to:<br>
-<a target="_blank" href="https://www.reddit.com/user/squidgem0nster/">/u/Squidgem0nster</a> for his great tool hQuestBuilder, and for his great support and help creating this project!<br><a target="_blank" href="https://www.reddit.com/user/Banjo-Oz">/u/Banjo-Oz</a> for supplying his great set of SVG Icons for Heroes/Monsters and all Furnitures!<br><a target="_blank" href="https://www.reddit.com/user/Agorg2202">/u/Agorg2203</a> for Beta Testing, suggested nice improvments, and also wrote the documentation of the QuestDown language!<br>
+<a target="_blank" href="https://www.reddit.com/user/squidgem0nster/">/u/Squidgem0nster</a> for his great tool <a target="_BLANK" href="https://www.hquestbuilder.com">hQuestBuilder</a>, and for his great support and help creating this project!<br>
+<a target="_blank" href="https://www.reddit.com/user/Banjo-Oz">/u/Banjo-Oz</a> for supplying his great set of SVG Icons for Heroes/Monsters and all Furnitures!<br>
+<a target="_blank" href="https://www.reddit.com/user/Agorg2202">/u/Agorg2203</a> for Beta Testing, suggested nice improvments, and also wrote the documentation of the QuestDown language!<br>
+<a target="_blank" href="https://www.reddit.com/user/Aster28_/">/u/Aster28_</a> for Beta Testing, for his tool <a target="_BLANK" href="https://www.hquestmaster.com/QDT/QuestDownTranslator.html">QuestDown Translator</a>, and for his help to disclose and advertise QuestDown and hQuestMaster!
 <br>
 A big thanks also for all Beta Testers that helped me to test and improve hQuestMaster!
 
